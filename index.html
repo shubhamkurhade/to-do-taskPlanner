@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">  
+    <title>To Do Planner</title>
+    <link rel="shortcut icon" href="icons/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/4480b7fb58.js" crossorigin="anonymous"></script>
+    <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+    
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="top-title">
+        <i class="em em-spiral_calendar_pad" aria-role="presentation" aria-label=""></i>
+        <i class="em em-ledger" aria-role="presentation" aria-label="LEDGER"></i>
+        <p class="top-title-label">To Do Planner</p>
+      </div>
+      <div class="task-input">
+        <i class="fa-solid fa-bars"></i>
+        <input type="text" placeholder="Add a new task">
+      </div>
+      <div class="controls">
+        <div class="filters">
+          <span class="active" id="all">All</span>
+          <span id="pending">Pending</span>
+          <span id="completed">Completed</span>
+        </div>
+        <button class="clear-btn">Clear All</button>
+      </div>
+      <ul class="task-box">
+        <!--here all the tasks will be pulled over from the local storage-->
+      </ul>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
