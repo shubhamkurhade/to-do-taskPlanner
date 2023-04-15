@@ -1,5 +1,5 @@
 # to-do-taskPlanner
-This is my mini project - 3/7 
+This is my mini project - 2/7 
 ----------------------------------------------
 This task planner is built with pure basic HTML, CSS and Javascript
 
