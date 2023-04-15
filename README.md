@@ -9,7 +9,7 @@ Some feature of the application -
 3. All tasks pane hosts al the pending + completed tasks for easy tracking of your tasks
 
 Go to this link: https://shubhamkurhade.github.io/to-do-taskPlanner/
-and experience the applicaiton <i class="em em-smile" aria-role="presentation" aria-label="SMILING FACE WITH OPEN MOUTH AND SMILING EYES"></i>
+and experience the applicaiton 😁
 ----------------------------------------------
 
 Some snapshots of the applicaiton - 
