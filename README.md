@@ -7,6 +7,9 @@ Some feature of the application -
 1. It stores the task in Local Storage, so even if the browser reloads the tasks will all be there
 2. The pending marked to completed tasks can be unmarked to pending if reuired. and vise-versa
 3. All tasks pane hosts al the pending + completed tasks for easy tracking of your tasks
+
+Go to this link: https://shubhamkurhade.github.io/to-do-taskPlanner/
+and experience the applicaiton <i class="em em-smile" aria-role="presentation" aria-label="SMILING FACE WITH OPEN MOUTH AND SMILING EYES"></i>
 ----------------------------------------------
 
 Some snapshots of the applicaiton - 
