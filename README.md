@@ -1,6 +1,6 @@
 # to-do-taskPlanner
 -------------------------------
-This is part of my mini projects - 2/7
+This is part of my mini projects - 1/7
 
 Project Title: To Do Planner application using Javascript
 Please visit the project using this link: https://shubhamkurhade.github.io/to-do-taskPlanner/
